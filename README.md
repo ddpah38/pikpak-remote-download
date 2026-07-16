@@ -1,23 +1,3 @@
-# Menulis artikel dalam Bahasa Indonesia
-
-**AFF link analysis**: `https://mypikpak.com?invitation-code=74098243`
-
-- Base URL: `https://mypikpak.com`
-
-- AFF parameter: `?invitation-code=74098243`
-
-For specific pages:
-
-- Payment/subscription page: `https://mypikpak.com/drive/payment?invitation-code=74098243`
-
-- Download/registration: `https://mypikpak.com?invitation-code=74098243`
-
----
-
-# PikPak Cara Pakai: Panduan Lengkap dari Daftar Akun, Download Torrent & Magnet Link, hingga Streaming Video — Fitur Gratis vs Premium Mana yang Lebih Worth It?
-
----
-
 
 # PikPak Cara Pakai: Panduan Lengkap dari Daftar Akun, Download Torrent & Magnet Link, hingga Streaming Video — Fitur Gratis vs Premium Mana yang Lebih Worth It?
 
